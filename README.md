@@ -18,7 +18,7 @@ Always up to date at [this](https://github.com/Marsfan/Gabriel-Roper-Resume/rele
 
 ## Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=marsfan&count_private=true&show_icons=true&include_all_commits=true&line_height=24.5)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marsfan&layout=compact&exclude_repo=Bus-Loop-Display,Swift-Education&langs_count=10)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marsfan&layout=compact&exclude_repo=Bus-Loop-Display,Swift-Education&langs_count=10)-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
