@@ -1,13 +1,18 @@
 # Gabriel R.
-Electrical Engineering Student at Embry-Riddle Aeronautical University \
-Currently Looking for Electrical and Computer Engineering Jobs in the Aerospace Industry
+B.S. in Electrical Engineering \
+Systems Engineer for Astronautics Corporation of America. \
+All statements made under this account are solely my own, and do not reflect those Astronautics. 
+
 
 ## Current Projects
+* Tinkering with Embedded Board
+* Reverse Engineering RV Satellite Dish Controller
+
+
+## Projects I have worked on
 * [Heimdallr Systems](https://heimdallr-systems.github.io/) Legged Security and Patrol Robot
 * [Eagle Aero Sport](https://www.eagleaerosport.com/) Light Sport Aircraft modified for Flight Test
 * [EagleSat](https://eaglelife.erau.edu/eaglesat/home/) Space Radiation CubeSat
-
-## Projects I have worked on
 * [FTC Robot Control App](https://github.com/CoppellRobotics/ftc_app)
 * [KiCAD footprints Library](https://gitlab.com/kicad/libraries/kicad-footprints)
 * [VS Code Python Extension](https://github.com/microsoft/vscode-python)
