@@ -1,7 +1,7 @@
 # Gabriel R.
 B.S. in Electrical Engineering \
 Systems Engineer for Astronautics Corporation of America. \
-All statements made under this account are solely my own, and do not reflect those Astronautics. 
+All statements made under this account are solely my own, and thus not as a representitive of Astronautics Corporation of America 
 
 
 ## Current Projects
