@@ -4,9 +4,14 @@ Systems Engineer for Astronautics Corporation of America. \
 All statements made under this account are solely my own, and thus not as a representitive of Astronautics Corporation of America 
 
 
-## Current Projects
-* Tinkering with Embedded Board
+## Current Personal Projects
+* RISC-V Foundation Allwinner D1 Seed Program
+  * Helping develop, test, and document RISC-V Development boards.
+* Tinkering with various Embedded Boards
+  * Just playing around with embedded systems I can find
 * Reverse Engineering RV Satellite Dish Controller
+  * End goal is to adapt it to be a general purpose satellite tracker
+
 
 
 ## Projects I have worked on
